@@ -1,0 +1,1 @@
+print("Hello from Replit! Your project is ready to go.")
